@@ -11,16 +11,16 @@
   "dependencies": {
     "axios": "*",
     "classnames": "*",
+    "date-fns": "*",
     "lucide-react": "*",
-    "react-router-dom": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "date-fns": "*"
+    "react-router-dom": "*"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
-    "@vitejs/plugin-react": "^4.2.0",
+    "@vitejs/plugin-react": "^4.7.0",
     "typescript": "^5.2.2",
     "vite": "^5.0.0"
   }
